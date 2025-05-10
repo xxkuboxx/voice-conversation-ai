@@ -23,7 +23,7 @@
       cp server/env.example server/.env
       ```
       
-#### 実行手順
+### 実行手順
 
 1.  **Dockerイメージのビルド:**
     サーバーディレクトリ（`server/`）に移動し、コンテナイメージをビルドします。
