@@ -6,7 +6,7 @@ RUN pip3 install -r requirements.txt
 
 COPY *.py /app/
 COPY assets/* /app/assets/
-COPY frames/* /app/frames/
+COPY frame_processors/* /app/frame_processors/
 COPY utils/* /app/utils/
 RUN mkdir /app/output/
 
