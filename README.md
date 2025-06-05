@@ -1,3 +1,7 @@
+## アプリの記事
+
+https://zenn.dev/xxkuboxx/articles/7c0ff4af202b48
+
 ## 音声会話AIプロジェクト
 
 このプロジェクトは、GoogleのGemini Multimodal Live APIを利用した音声チャットボットです。Daily Prebuiltを通じて簡単に接続し、デモンストレーションやテストを行うことができます。
